@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dark-sky": "^1.1.5",
+    "darksky": "^0.1.2",
+    "darksky-node": "0.0.2",
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "node-fetch": "^2.6.0",
+    "unirest": "^0.6.0",
+    "winston": "^3.2.1"
+  }
+}
